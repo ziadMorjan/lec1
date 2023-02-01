@@ -1,3 +1,6 @@
 <?php
-    echo "hello word";
+    echo "<pre>";
+    print_r($GLOBALS);
+    echo "</pre>";
 ?>
+
